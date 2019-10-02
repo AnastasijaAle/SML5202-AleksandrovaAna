@@ -16,3 +16,11 @@ Close-bosomed friend of the maturing sub<br>
   <li>Stir and add milk</li>
   <li>Sit back and Enjoy! </li>
   </ol>
+
+<p>Things to do today. </p>
+<ul>
+  <li>Go to Comp and Lang Class </li>
+<li> Print out module outlines in A5 </li>
+<li> Go to Spanish Class </li>
+<li> Go home and do homework </li>
+  </ul>
