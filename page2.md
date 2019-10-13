@@ -3,3 +3,13 @@
   <a href="index.html">Home</a> <br> 
   <a href="page3.html">Page 3</a>
 </p>
+<h1> HTML Part 2 Homework </h1>
+<p> The date of this page is Sunday the 13 <sup> th </sup> of October 2019. </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg?download" alt= "Black Bombay Cat" >
+
+<h3> Definition of three terms. </h3>
+<dl> <dt> Semantic Web <dd> The semantic web is the development of the WWW (World Wide Web) in which data in web pages is structured and tagged in such a way that it can be read directly by computers. </dd> </dt>
+<dt> Personification <dd> In texts this happens when an author personifies a noun by giving them humane characteristics. An example would be : The Sun is smiling and waving for us. </dd> </dt>
+<dt> Abstract Nouns <dd> Abstracts nouns are words and nouns that are not physical and can not be seen, touched or heard. A few examples would be: Love, Time and Fear. </dd> </dt> </dl>
+
