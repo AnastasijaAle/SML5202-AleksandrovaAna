@@ -22,4 +22,8 @@
   </table>
   
   <h4> German Sentences </h4>
-  <ul> <li lang="de" > Ich haben hunger </li lang="de">
+  <ul> <li lang="de" > Ich habe hunger. </li>
+  <li lang="de" > Hast du hunger? </li>
+  <li lang="de" > Wir haben hunger. </li>
+  </ul>
+  
