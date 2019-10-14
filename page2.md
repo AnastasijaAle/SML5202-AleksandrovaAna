@@ -23,8 +23,5 @@
   </table>
   
   <h4> German Sentences </h4>
-  <ul> <li lang="de" > Ich habe hunger. </li>
-  <li lang="de" > Hast du hunger? </li>
-  <li lang="de" > Wir haben hunger. </li>
-  </ul>
+ <p lang="de"> Hallo! Mein name ist Anastasija und ich habe zwantig jahre alt. Ich bin hunger weil ich habe nich frühstückt gegessen. </p>
   
