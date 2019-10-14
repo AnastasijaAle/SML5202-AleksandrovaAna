@@ -19,6 +19,7 @@
   <tr><td> Accusative</td><td>einen</td><td>eine</td><td>ein</td><td> -</td> </tr>
   <tr><td> Genitive </td><td>eines</td><td>einer</td><td>eines</td><td> -</td> </tr>
   <tr><td>Dative </td><td>einem</td><td>einer</td><td>einem</td><td> - </td> </tr>
+  </table>
   
   <h4> German Sentences </h4>
   <ul> <li lang="de" > Ich haben hunger </li lang="de">
