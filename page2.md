@@ -13,11 +13,12 @@
 <dt> Personification <dd> In texts this happens when an author personifies a noun by giving them humane characteristics. An example would be : The Sun is smiling and waving for us. </dd> </dt>
 <dt> Abstract Nouns <dd> Abstracts nouns are words and nouns that are not physical and can not be seen, touched or heard. A few examples would be: Love, Time and Fear. </dd> </dt> </dl>
 
-<h3> German Indefinit articles</h3>
-<table><tr> <th> </th> <tr> <th> Masculine </th> <th> Feminine </th> <th> Neuter </th> </tr>
-  <tr><td> Nominative </td><td> ein </td> <td> eine</td> <td> ein</td> </tr>
-  <tr><td> Accusative</td><td>einen</td><td>eine</td><td>eine</td><td>ein</td></tr>
-  <tr><td> Genitive </td><td>eines</td><td>einer</td><td>eines</td></tr>
-  <tr><td>Dative </td><td>einem</td><td>einer</td><td>einem</td></tr>
+<h3> German Indefinite articles</h3>
+<table><tr><th>Case </th><th> Masculine </th> <th> Feminine </th> <th> Neuter </th><th> PLural</th> </tr>
+  <tr><td> Nominative </td><td> ein </td> <td> eine</td> <td> ein</td><td> -</td></tr>
+  <tr><td> Accusative</td><td>einen</td><td>eine</td><td>ein</td><td> -</td> </tr>
+  <tr><td> Genitive </td><td>eines</td><td>einer</td><td>eines</td><td> -</td> </tr>
+  <tr><td>Dative </td><td>einem</td><td>einer</td><td>einem</td><td> - </td> </tr>
   
-  
+  <h4> German Sentences </h4>
+  <ul> <li lang="de" > Ich haben hunger </li lang="de">
