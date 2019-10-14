@@ -4,7 +4,7 @@
   <a href="page3.html">Page 3</a>
 </p>
 <h1> HTML Part 2 Homework </h1>
-<p> The date of this page is Sunday the 13 <sup> th </sup> of October 2019. </p>
+<p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg?download" alt= "Black Bombay Cat" >
 <h6> Black Bombay Cat </h6>
@@ -15,7 +15,7 @@
 <dt> Abstract Nouns <dd> Abstracts nouns are words and nouns that are not physical and can not be seen, touched or heard. A few examples would be: Love, Time and Fear. </dd> </dt> </dl>
 
 <h3> German Indefinite articles</h3>
-<table><tr><th>Case </th><th> Masculine </th> <th> Feminine </th> <th> Neuter </th><th> PLural</th> </tr>
+<table><tr><th> </th><th> Masculine </th> <th> Feminine </th> <th> Neuter </th><th> Plural</th> </tr>
   <tr><td> Nominative </td><td> ein </td> <td> eine</td> <td> ein</td><td> -</td></tr>
   <tr><td> Accusative</td><td>einen</td><td>eine</td><td>ein</td><td> -</td> </tr>
   <tr><td> Genitive </td><td>eines</td><td>einer</td><td>eines</td><td> -</td> </tr>
