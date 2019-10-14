@@ -11,8 +11,9 @@
 
 <h3> Definition of three terms. </h3>
 <dl> <dt> Semantic Web <dd> The semantic web is the development of the WWW (World Wide Web) in which data in web pages is structured and tagged in such a way that it can be read directly by computers. </dd> </dt>
-<dt> Personification <dd> In texts this happens when an author personifies a noun by giving them humane characteristics. An example would be : The Sun is smiling and waving for us. </dd> </dt>
-<dt> Abstract Nouns <dd> Abstracts nouns are words and nouns that are not physical and can not be seen, touched or heard. A few examples would be: Love, Time and Fear. </dd> </dt> </dl>
+<dt> Personification <dd> In texts this happens when an author personifies a noun by giving them humane characteristics. 
+  An example would be : <em>The Sun is smiling and waving for us. </em> </dd> </dt>
+<dt> Abstract Nouns <dd> Abstracts nouns are words and nouns that are not physical and can not be seen, touched or heard. A few examples would be:<em> Love, Time and Fear.</em> </dd> </dt> </dl>
 
 <h3> German Indefinite articles</h3>
 <table><tr><th> </th><th> Masculine </th> <th> Feminine </th> <th> Neuter </th><th> Plural</th> </tr>
