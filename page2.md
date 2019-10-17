@@ -9,7 +9,7 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source"> 
  <img style="width:30%; border:1px purple;margin-left:35%;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"> </a>
  
- <p>This <span style="color:#ADD8E6;"> sunset </span> is so <span style="color:#E6E6FA;"> beautiful </span>! </p>
+ <p>This <span style="color:#FFA500;"> sunset </span> is so <span style="color:#FF0000;"> beautiful </span>! </p>
   
 
 <h3> Definition of three terms. </h3>
