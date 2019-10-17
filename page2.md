@@ -9,6 +9,7 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" alt="Beautiful Sunset">
+
 </a>
 
 <h3> Definition of three terms. </h3>
