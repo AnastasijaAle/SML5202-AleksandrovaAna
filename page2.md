@@ -7,7 +7,7 @@
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source"> 
- <p> <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"> This is the most beautiful sunset but it also fits with my site theme and therefore I have decided to keep this image. </p> </a>
+ <p> <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"> </a> This is the most beautiful sunset but it also fits with my site theme and therefore I have decided to keep this image. </p> 
  
  
  <p>This <span style="color:#FFA500;"> sunset </span> is so <span style="color:#FF0000;"> beautiful </span>! </p>
