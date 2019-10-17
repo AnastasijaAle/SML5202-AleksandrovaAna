@@ -8,5 +8,5 @@ float:left;
 margin: 0 25px 25px 0;
 width:50%;
 vertical-align:top;
-border:2px double #0000FF; 
+border:1px solid #0000FF; 
 }
