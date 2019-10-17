@@ -6,7 +6,7 @@
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg?download" alt= "Black Bombay Cat" >
+<a href="" img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg?download" alt= "Black Bombay Cat" >
 <h6> Black Bombay Cat </h6>
 
 <h3> Definition of three terms. </h3>
