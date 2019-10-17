@@ -5,8 +5,8 @@
 
 .imgLeft { 
 float:left;
-margin: 0 25px 25px 0;
-width:50%;
+margin: 0 10px 10px 0;
+width:40%;
 vertical-align:top;
 border:1px solid #0000FF; 
 }
