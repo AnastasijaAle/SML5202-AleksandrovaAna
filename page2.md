@@ -6,8 +6,10 @@
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
-<a href="" img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg?download" alt= "Black Bombay Cat" >
-<h6> Black Bombay Cat </h6>
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" alt="Beautiful Sunset">
+</a>
 
 <h3> Definition of three terms. </h3>
 <dl> <dt> Semantic Web <dd> The semantic web is the development of the WWW (World Wide Web) in which data in web pages is structured and tagged in such a way that it can be read directly by computers. </dd> </dt>
