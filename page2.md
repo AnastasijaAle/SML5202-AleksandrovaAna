@@ -18,9 +18,9 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
 <img style="width:50%; border:1px solid mediumvioletred; margin-left:25%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg alt="A beautiful sunset">
 </a>
-
-</div>
 </p>
+</div>
+
 
 
   
