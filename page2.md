@@ -19,9 +19,8 @@ padding: 100px;
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
 <img style="width:50%; border:1px solid mediumvioletred; margin-left:50%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" alt="A beautiful sunset">
 </a>
-This is the most beautiful sunset but it also fits with my site theme and therefore I have decided to keep this image.</a>
 </div>
- 
+ This is the most beautiful sunset but it also fits with my site theme and therefore I have decided to keep this image.</a>
  <p>This <span style="color:#FFA500;"> sunset </span> is so <span style="color:#FF0000;"> beautiful </span>! </p>
   
 
