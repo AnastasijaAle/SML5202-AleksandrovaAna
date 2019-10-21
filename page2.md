@@ -6,9 +6,22 @@
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source"> 
- <p> <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"> This is the most beautiful sunset but it also fits with my site theme and therefore I have decided to keep this image. </p> </a>
- 
+<style>
+div {
+border: 3px solid #4B0082;
+padding: 20px;
+}
+
+</style>
+<h2 style="color:mediumvioletred;">A sunset</h2>
+<p style="color:rebeccapurple;">
+<div class="clearfix">
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
+<img style="width:50%; border:1px solid mediumvioletred; margin-left:25%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" alt="A beautiful sunset">
+</a>
+This is the most beautiful sunset but it also fits with my site theme and therefore I have decided to keep this image.
+</a>
+</div>
  
  <p>This <span style="color:#FFA500;"> sunset </span> is so <span style="color:#FF0000;"> beautiful </span>! </p>
   
