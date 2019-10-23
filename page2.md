@@ -46,11 +46,12 @@
 <div class="row">
   <div class="column">
     <h2>Column 1</h2>
-    <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" /></p>
+    <p><img style= border:1px dotted red;"
+    src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" /></p>
   </div>
   <div class="column">
     <h2>Column 2</h2>
-    <p>The very beautiful sunset. There is not much to say about the picture at all as it of course speaks for itself. The beautiful mix of colours is just amazing and I just hope that ine day I get to see this in real life with people that I care about.</p>
+    <p>The very beautiful sunset. There is not much to say about the picture at all as it of course speaks for itself. The beautiful mix of colours is just amazing and I just hope that ine day I get to see this in real life with people that I care about.This is such a <span style="color:#0000A0;"> beautiful </span> <span style="color:#FF0000;"> sunset </span>.</p>
   </div>
 </div>
 
