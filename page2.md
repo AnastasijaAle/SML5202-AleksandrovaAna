@@ -17,6 +17,11 @@ This is such a <span style="color:#0000A0;"> beautiful </span> <span style="colo
 
   
 
+
+
+
+
+
 <h3> Definition of three terms. </h3>
 <dl> <dt> Semantic Web <dd> The semantic web is the development of the WWW (World Wide Web) in which data in web pages is structured and tagged in such a way that it can be read directly by computers. </dd> </dt>
 <dt> Personification <dd> In texts this happens when an author personifies a noun by giving them humane characteristics. 
