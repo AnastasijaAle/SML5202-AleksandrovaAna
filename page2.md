@@ -11,6 +11,8 @@
 <img style="width:50%; border:1px dotted blue; margin-left:25%;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
 alt="Sunset Picture"> </a>
 
+This is such a <span style="color:#00FFFF;"> BEAUTIFUL </span> <span style="color:#FF0000;"> SUNSET </span>.
+
 
   
 
