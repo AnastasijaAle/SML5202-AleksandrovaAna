@@ -6,8 +6,11 @@
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source"> 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
-alt="Sunset Picture"> </a>
+alt="Sunset Picture">
+</a>
 
 
   
