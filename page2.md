@@ -9,8 +9,9 @@
 <a 
 href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
   
+<p> 
 <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
-alt="Sunset Picture"> </a>
+alt="Sunset Picture"> This is a very beautiful sunset and hopefully one day we all get to see it in real life because it is so relaxing and calming. </p> </a>
 
 This is such a <span style="color:#0000A0;"> beautiful </span> <span style="color:#FF0000;"> sunset </span>.
 
