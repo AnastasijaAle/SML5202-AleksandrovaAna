@@ -4,8 +4,6 @@
   <a href="page2.html">Page 2</a>
 </p>
 
-<!DOCTYPE html>
-
 <h2>Here is a list of all names with random(ish) verb + adverb</h2>
 
 <button onclick="makeSentence()">Click me</button>
