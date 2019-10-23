@@ -9,7 +9,7 @@
 <a 
 href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
   
-<img style="width:50%; border:1px dotted blue; float: left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
 alt="Sunset Picture"> </a>
 
 This is such a <span style="color:#0000A0;"> beautiful </span> <span style="color:#FF0000;"> sunset </span>.
