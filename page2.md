@@ -46,7 +46,7 @@
 <div class="row">
   <div class="column">
     <h2>Column 1</h2>
-    <p><img style= border:1px dotted red;"
+    <p><img style=" width:50%;border:1px dotted red;"
     src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" /></p>
   </div>
   <div class="column">
