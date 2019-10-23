@@ -6,12 +6,13 @@
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
+<a 
+href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
   
-<img style="width:50%; border:1px dotted blue; margin-left:25%;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
+<img style="width:50%; border:1px dotted blue; float: left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
 alt="Sunset Picture"> </a>
 
-This is such a <span style="color:#00FFFF;"> BEAUTIFUL </span> <span style="color:#FF0000;"> SUNSET </span>.
+This is such a <span style="color:#0000A0;"> beautiful </span> <span style="color:#FF0000;"> sunset </span>.
 
 
   
