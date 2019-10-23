@@ -8,7 +8,7 @@
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source"> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
+<img style=2width:50%; border:1px dotted blue;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
 alt="Sunset Picture">
 </a>
 
