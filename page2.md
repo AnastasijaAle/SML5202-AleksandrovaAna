@@ -6,21 +6,53 @@
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
 
-<a 
-href="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" title="View Image Source">
-  
-<p> 
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg"
-alt="Sunset Picture"> This is a very beautiful sunset and hopefully one day we all get to see it in real life because it is so relaxing and calming. </p> </a>
 
-This is such a <span style="color:#0000A0;"> beautiful </span> <span style="color:#FF0000;"> sunset </span>.
+<style>
+* {
+  box-sizing: border-box;
+}
 
+/* Create two equal columns that floats next to each other */
 
-  
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
+/* Border around the container */
 
+.row {
+   border: 1px solid black;
+}
 
+/* Clear floats after the columns */
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <h2>Column 1</h2>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Benisaf_Sunset.jpg" /></p>
+  </div>
+  <div class="column">
+    <h2>Column 2</h2>
+    <p>The very beautiful sunset. There is not much to say about the picture at all as it of course speaks for itself. The beautiful mix of colours is just amazing and I just hope that ine day I get to see this in real life with people that I care about.</p>
+  </div>
+</div>
 
 
 <h3> Definition of three terms. </h3>
