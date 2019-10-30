@@ -1,7 +1,7 @@
 <h1> Page 2 </h1>
 <p> 
   <a href="index.html">Home</a> <br> 
-  <a href="page3.html">Page 3</a>
+  <a href="page3.html">Page 3</a> <br>
   <a href="Idioms.html">Idioms</a>
 </p>
 <h1> HTML Part 2 Homework </h1>
