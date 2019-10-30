@@ -2,6 +2,7 @@
 <p> 
   <a href="index.html">Home</a> <br> 
   <a href="page2.html">Page 2</a>
+  <a href="Idioms.html">Idioms</a>
 </p>
 
 <h2>Here is a list of all names with random(ish) verb + adverb</h2>
