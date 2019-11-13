@@ -2,7 +2,9 @@
 <p> 
   <a href="index.html">Home</a> <br> 
   <a href="page2.html">Page 2</a> <br>
-  <a href="Idioms.html">Idioms</a>
+  <a href="Idioms.html">Idioms</a> <br>
+  <a href="Exercises.html">Exercises</a>
+  
 </p>
 
 <h2>Here is a list of all names with random(ish) verb + adverb</h2>
