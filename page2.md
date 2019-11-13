@@ -2,7 +2,8 @@
 <p> 
   <a href="index.html">Home</a> <br> 
   <a href="page3.html">Page 3</a> <br>
-  <a href="Idioms.html">Idioms</a>
+  <a href="Idioms.html">Idioms</a> <br>
+  <a href="Exercises.html">Exercises</a>
 </p>
 <h1> HTML Part 2 Homework </h1>
 <p> Today's date is Sunday the 13 <sup> th </sup> of October 2019. </p>
