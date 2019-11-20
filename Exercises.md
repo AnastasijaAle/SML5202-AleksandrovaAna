@@ -15,3 +15,7 @@
 <h3> German Cuisine </h3>
 
 <iframe src="https://h5p.org/h5p/embed/648022" width="1090" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h3> Seasons in German </h3>
+
+<iframe src="https://h5p.org/h5p/embed/655264" width="899" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
